@@ -7,7 +7,7 @@
     "test": "standard"
   },
   "bin": {
-    "logcatislog": "bin/logcatislog"
+    "logcatislog": "bin/logcatislog.js"
   },
   "repository": {
     "type": "git",
