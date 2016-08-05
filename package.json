@@ -1,5 +1,5 @@
 {
-  "name": "logcat",
+  "name": "logcatislog",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -7,18 +7,18 @@
     "test": "standard"
   },
   "bin": {
-    "logcat": "bin/logcat"
+    "logcatislog": "bin/logcatislog"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KidkArolis/logcat.git"
+    "url": "git+https://github.com/KidkArolis/logcatislog.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KidkArolis/logcat/issues"
+    "url": "https://github.com/KidkArolis/logcatislog/issues"
   },
-  "homepage": "https://github.com/KidkArolis/logcat#readme",
+  "homepage": "https://github.com/KidkArolis/logcatislog#readme",
   "devDependencies": {
     "standard": "^7.1.2"
   },

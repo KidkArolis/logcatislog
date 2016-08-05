@@ -4,12 +4,12 @@ console.logs an image of a cat
 
 ## Install
 
-    $ npm i -g logcat
+    $ npm i -g logcatislog
 
 ## Usage
 
-    $ logcat
+    $ logcatislog
 
 ## Programmatic Usage
 
-    require('logcat')()
+    require('logcatislog')()
