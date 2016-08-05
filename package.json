@@ -1,0 +1,30 @@
+{
+  "name": "logcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "bin": {
+    "logcat": "bin/logcat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KidkArolis/logcat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KidkArolis/logcat/issues"
+  },
+  "homepage": "https://github.com/KidkArolis/logcat#readme",
+  "devDependencies": {
+    "standard": "^7.1.2"
+  },
+  "dependencies": {
+    "axios": "^0.13.1",
+    "imgcat": "^2.3.0",
+    "xml-parser": "^1.2.1"
+  }
+}
